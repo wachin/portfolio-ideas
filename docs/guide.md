@@ -1,50 +1,50 @@
 <div align="center">
-  <h1>Contribution Guidelines</h1>
-  This documentation contains a set of guidelines to help you during the contribution process of this project.
+  <h1>Guía de contribución</h1>
+  Esta documentación contiene una serie de pautas para ayudarte durante el proceso de contribución a este proyecto.
 </div>
 <br>
 
-## Step 1. Fork the repository
+## Paso 1. Haz un fork del repositorio
 
-Visit the [repository](https://github.com/evavic44/portfolio-ideas) on Github and scroll to the readme section, you'll see a pencil icon on the right, click it to fork the project. This will create a copy in your account.
+Visita el [repositorio](https://github.com/evavic44/portfolio-ideas) en GitHub y desplázate hasta la sección del README. Verás un ícono de lápiz a la derecha; haz clic allí para hacer un fork del proyecto. Esto creará una copia en tu cuenta.
 
 ![fork-project](https://user-images.githubusercontent.com/62628408/164759147-84c9baa0-503e-4163-a352-6132de3b916c.png)
 
-## Step 2. Create a new table
+## Paso 2. Crea una nueva fila de tabla
 
-The portfolio examples are enclosed between two comments:
+Los ejemplos de portafolios están encerrados entre dos comentarios:
 
 - `<! -- ⭐ PORTFOLIO START ⭐ -- >`
 - `<! -- ⭐ PORTFOLIO END ⭐ -- >`
 
 ![portfolio-comments.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1650538444320/u2D5Yjfpv.png)
 
-To add a portfolio, you can either create a new table or copy an already existing table at the bottom of the list and edit it, your choice.
+Para añadir un portafolio, puedes crear una nueva fila o copiar una que ya exista al final de la lista y editarla, como prefieras.
 
 > **Warning**
 >
-> DISCLAIMER: ⚠️Portfolios should be added at bottom of the list.
+> AVISO: ⚠️Los portafolios deben añadirse al final de la lista.
 
-## Step 3. Add Portfolio Details
+## Paso 3. Añade los detalles del portafolio
 
-In the new table, start each column with a `|` symbol followed by the column content:
+En la nueva fila, comienza cada columna con el símbolo `|` seguido del contenido correspondiente:
 
-### ⚡ Author Name
+### ⚡ Nombre del autor
 
-Start a new line below the latest portfolio and add the author or creator of the portfolio website, like so: `| Jemima Abu`
+Empieza una nueva línea debajo del último portafolio y agrega el autor o creador del sitio web del portafolio, por ejemplo: `| Jemima Abu`
 
 ![author-name.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1650538578159/kX0S0PKsB.png)
 
-### ⚡Screenshot
+### ⚡ Captura
 
-Take a screenshot of the homepage of the portfolio website, drag it and drop it into the screenshot column. Please before adding the screenshot, use services like [tinypng.com](https://tinypng.com) or [compressor.io](https://compressor.io) to optimize the image sizes.
+Haz una captura de pantalla de la página principal del sitio del portafolio, arrástrala y suéltala en la columna de capturas. Antes de agregarla, usa servicios como [tinypng.com](https://tinypng.com) o [compressor.io](https://compressor.io) para optimizar el tamaño de la imagen.
 
 <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1650495714252/NSLTPxLxe.gif" width="800px">
 
-### ⚡Live URL
+### ⚡ URL en vivo
 
-Add the live link to the portfolio website. PS: Omit the `https://` protocol on the link text.
-Example:
+Agrega el enlace activo al sitio web del portafolio. Nota: omite el protocolo `https://` en el texto del enlace.
+Ejemplo:
 
 ```
 [victoreke.com](https://victoreke.com)
@@ -52,43 +52,43 @@ Example:
 
 <!-- ![live-url.gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1650498090936/9SxKjCC54.gif) -->
 
-### ⚡Repo
+### ⚡ Repositorio
 
-If the portfolio is available on GitHub, post the repository link, if not, just write **"None"**
+Si el portafolio está disponible en GitHub, añade el enlace del repositorio; si no, simplemente escribe **"None"**
 
 `[GitHub](https://github.com/jemimaabu/portfolio)`
 
 ![repository.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1650498457473/89BPbVRg0.png)
 
-### ⚡Tech Stack
+### ⚡ Stack tecnológico
 
-The next and final thing to add is the tech stack of the portfolio website. You can use [wappalyzer](https://wappalyzer.com), or any other service to detect the stack.
+Lo siguiente y último que debes agregar es el stack tecnológico del sitio del portafolio. Puedes usar [wappalyzer](https://wappalyzer.com) o cualquier otro servicio para detectarlo.
 
-E.g `HTML, CSS, JavaScript`
+Ejemplo: `HTML, CSS, JavaScript`
 
-## Step 4. Preview and create a PR
+## Paso 4. Previsualiza y crea un PR
 
-Now we are done adding all the portfolio information, preview the portfolio added and make sure it corresponds with the table, then raise a pull request.
+Ahora que ya añadiste toda la información del portafolio, previsualiza el portafolio agregado y asegúrate de que coincida con la tabla; después, abre un pull request.
 
-## Need more help? 🤔
+## ¿Necesitas más ayuda? 🤔
 
-If you need any adittional guide or help with any issues, feel free to contact me on [twitter](https://twitter.com/victorekea) and I'll answer ASAP. That's a promise 🤝🏽😊
+Si necesitas orientación adicional o ayuda con algún problema, puedes contactarme en [twitter](https://twitter.com/victorekea) y responderé lo antes posible. Lo prometo 🤝🏽😊
 
-## Sponsor
+## Patrocinio
 
-Wanna buy me a coffee, I'll sincerely appreciate it. Here's the link below.
+Si quieres invitarme un café, te lo agradeceré sinceramente. Aquí tienes el enlace.
 
 <a href="https://www.buymeacoffee.com/victoreke">
  <img width="150px" alt="bmc-button" src="https://user-images.githubusercontent.com/62628408/127788747-8850d386-fc61-4fff-b18f-8c5ee597be34.png">
 </a>
 
 <hr>
-I hope you have a lot of fun while contributing to this project, if you drew inspiration from any portfolio on this repo, consider starring this project or sending the creator a thank you message. I sincerely hope you build an amazing portfolio website that will blow the recruiter or visitor's mind. Goodluck. ⚡
+Espero que disfrutes mucho contribuyendo a este proyecto. Si encontraste inspiración en algún portafolio de este repositorio, considera darle una estrella al proyecto o enviar un mensaje de agradecimiento a su creador. De verdad espero que construyas un sitio de portafolio increíble que sorprenda a cualquier reclutador o visitante. Mucha suerte. ⚡
 
 <hr>
 <img src="https://user-images.githubusercontent.com/62628408/163662723-96f828c7-a971-473a-83a0-33d23a0f7efe.png" alt="portfolio ideas comic">
 
-# Contributing
+# Contribuir
 
-We love pull requests from everyone. By participating in this project, you
-agree to abide by the [Code Of Conduct](https://github.com/Evavic44/portfolio-ideas/blob/main/CODE_OF_CONDUCT.md).
+Nos encantan los pull requests de cualquier persona. Al participar en este proyecto,
+aceptas cumplir el [Código de conducta](https://github.com/Evavic44/portfolio-ideas/blob/main/CODE_OF_CONDUCT.md).

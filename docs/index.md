@@ -4,33 +4,33 @@ layout: home
 # Hero section
 hero:
   name: Portfolio Ideas
-  text: Repository of portfolio Inspiration
+  text: Repositorio de inspiración para portafolios
   image:
     src: /header.png
-    alt: Portfolio-ideas logo
-  tagline: A curation of awesome portfolio website ideas for developers and designers to draw inspiration from.
+    alt: Logo de Portfolio Ideas
+  tagline: Una colección de excelentes ideas de sitios web de portafolio para inspirar a desarrolladores y diseñadores.
   actions:
     - theme: brand
-      text: See Portfolios
+      text: Ver portafolios
       link: /portfolio
     - theme: alt
-      text: View on GitHub
+      text: Ver en GitHub
       link: https://github.com/Evavic44/portfolio-ideas
 
 # Features section
 features:
   - icon: 💜
-    title: The Best Resource
-    details: Over 130+ inspiration in a single repository
+    title: El mejor recurso
+    details: Más de 130 referencias en un solo repositorio
   - icon: ⚛️
-    title: Technologies Used
-    details: Discover the technologies used for each portfolio.
+    title: Tecnologías usadas
+    details: Descubre las tecnologías utilizadas en cada portafolio.
   - icon: 📷
-    title: Portfolio Screenshot
-    details: Know what each portfolio looks like without visiting it
+    title: Capturas del portafolio
+    details: Mira cómo luce cada portafolio sin necesidad de visitarlo.
   - icon: 🥑
-    title: Source Code
-    details: Portfolio source code available.
+    title: Código fuente
+    details: Código fuente del portafolio disponible.
 
 # Meta property
 head:

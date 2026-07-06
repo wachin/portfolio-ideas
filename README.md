@@ -3,12 +3,12 @@
 <div>
 <img align="right" src="https://user-images.githubusercontent.com/62628408/203671459-3c139f1e-31fa-43af-80b2-e3a14ce7e646.svg" width="60px">
 <h1 align="center">Portfolio Ideas</h1> 
-<p>A curation of awesome portfolio ideas for developers and designers to draw inspirations when they decide to create their own. Want to add yours or someone else's, feel free to raise a PR to add them. Inspired by <a href="https://github.com/GorvGoyl/Clone-Wars">clone Wars</a>, <a href="https://hashnode.com/post/30-web-developer-portfolios-to-inspire-you-cknfx6wdg069kxws1bjjv8mhw">30 web developer ideas to inspire you</a> and my personal struggles :).</p>
+<p>Una recopilación de excelentes ideas de portafolios para que desarrolladores y diseñadores encuentren inspiración cuando decidan crear el suyo. Si quieres añadir el tuyo o el de alguien más, no dudes en abrir un PR para agregarlo. Inspirado en <a href="https://github.com/GorvGoyl/Clone-Wars">clone Wars</a>, <a href="https://hashnode.com/post/30-web-developer-portfolios-to-inspire-you-cknfx6wdg069kxws1bjjv8mhw">30 web developer ideas to inspire you</a> y en mis propias dificultades :).</p>
 </div>
   
-Read about how this project started: <a href="https://eke.hashnode.dev/portfolio-ideas-an-open-source-repository-for-inspiration">Portfolio Ideas - An open-source repository for inspiration</a>
+Lee cómo comenzó este proyecto: <a href="https://eke.hashnode.dev/portfolio-ideas-an-open-source-repository-for-inspiration">Portfolio Ideas - An open-source repository for inspiration</a>
 
-## Contribute
+## Contribuir
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 
@@ -16,12 +16,12 @@ Read about how this project started: <a href="https://eke.hashnode.dev/portfolio
 
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-<div>Want to add a portfolio to this list? read the <a href="https://github.com/Evavic44/portfolio-ideas/blob/main/CONTRIBUTING.md">guidelines</a> on how to do that.</div>
+<div>¿Quieres agregar un portafolio a esta lista? Lee la <a href="https://github.com/Evavic44/portfolio-ideas/blob/main/CONTRIBUTING.md">guía</a> para hacerlo.</div>
 <br>
 
 <!-- === ⭐ PORTFOLIO LINE START ⭐ === -->
 
-| Author                      | Screenshot                                                                                                                                                                | Live URL                                                                                                      | Repo                                                                         | Tech Stack                                                                                                     |
+| Autor                       | Captura                                                                                                                                                                   | URL en vivo                                                                                                   | Repo                                                                         | Stack tecnológico                                                                                              |
 | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
 | Victor Eke                  | ![victoreke.com](https://github.com/Evavic44/portfolio-ideas/assets/62628408/618b6f06-1f3b-41e3-861f-6463ae5f0f81)                                                        | [victoreke.com](https://victoreke.com)                                                                        | [GitHub](https://github.com/evavic44/victoreke.com)                          | Nextjs, Sanity, Tailwind CSS, TypeScript, Umami, Vercel                                                        |
 | Kent C. Dodds               | ![kent-c-doddds](https://user-images.githubusercontent.com/62628408/169700953-63aaedb6-4784-4f42-a356-84d6506f8bf3.png)                                                   | [kentcdodds.com](https://kentcdodds.com)                                                                      | [GitHub](https://github.com/kentcdodds/kentcdodds.com)                       | React, TypeScript, Remix, Prisma, Redis, Postgres, CSS                                                         |
@@ -431,22 +431,22 @@ Read about how this project started: <a href="https://eke.hashnode.dev/portfolio
 
 <!-- === ⭐ PORTFOLIO LINE END ⭐ === -->
 
-## Suggestions
+## Sugerencias
 
-Do you have any portfolio you want to see added but you can't add it yourself? Just mention it in this [issue](https://github.com/Evavic44/portfolio-ideas/issues/104) and it will be picked up by the community. You can also raise a PR to add any of the portfolios suggested here as well.
+¿Hay algún portafolio que te gustaría ver agregado pero no puedes añadirlo por tu cuenta? Menciónalo en este [issue](https://github.com/Evavic44/portfolio-ideas/issues/104) y la comunidad lo tomará. También puedes abrir un PR para agregar cualquiera de los portafolios sugeridos allí.
 
-## Sponsor
+## Patrocinio
 
-As you build your portfolio we hope you get that job or achieve what you want with it. Don't forget to star this project if you find it helpful.
-If you like this project and want to give back, consider buying me a coffee. I'll appreciate every cup. ☕
+Mientras construyes tu portafolio, esperamos que consigas ese trabajo o logres lo que buscas con él. No olvides darle una estrella a este proyecto si te resulta útil.
+Si te gusta este proyecto y quieres aportar de vuelta, considera invitarme un café. Agradeceré cada taza. ☕
 
 <a href="https://buymeacoffee.com/victoreke">
   <img width="170px" alt="bmc-button" src="https://user-images.githubusercontent.com/62628408/163418953-1d32bf9c-317b-44ca-b773-44e36140fc9d.png">
 </a>
 
-## Contributors
+## Colaboradores
 
-Thanks goes to these wonderful people. ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+Gracias a estas personas maravillosas. ([guía de emojis](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -469,4 +469,4 @@ Thanks goes to these wonderful people. ([emoji key](https://allcontributors.org/
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+Este proyecto sigue la especificación de [all-contributors](https://github.com/all-contributors/all-contributors). Las contribuciones de cualquier tipo son bienvenidas.

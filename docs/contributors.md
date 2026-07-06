@@ -1,6 +1,6 @@
 <div align="center">
- <h1> Contributors </h1>
-  Thanks goes to these wonderful people for contributing to this project
+ <h1> Colaboradores </h1>
+  Gracias a estas personas maravillosas por contribuir a este proyecto
 </div>
 <br />
 
@@ -73,4 +73,4 @@
   </div>
 </div>
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+Este proyecto sigue la especificación de [all-contributors](https://github.com/all-contributors/all-contributors). Las contribuciones de cualquier tipo son bienvenidas.
